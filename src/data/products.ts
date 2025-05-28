@@ -20,7 +20,7 @@ export const products: Product[] = [
         userId: 'u2',
         userName: 'Sarah Johnson',
         rating: 5,
-        comment: 'Best headphones I've ever owned! The noise cancellation is incredible.',
+        comment: 'Best headphones ever owned! The noise cancellation is incredible.',
         createdAt: '2024-05-15T12:30:00Z'
       },
       {
@@ -202,7 +202,7 @@ export const products: Product[] = [
         userId: 'u10',
         userName: 'Nathan Anderson',
         rating: 5,
-        comment: 'Best coffee maker I've ever owned! The built-in grinder makes a huge difference.',
+        comment: 'Best coffee maker ever owned! The built-in grinder makes a huge difference.',
         createdAt: '2024-05-07T09:40:00Z'
       },
       {
