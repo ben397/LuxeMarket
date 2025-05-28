@@ -124,7 +124,7 @@ const Footer: React.FC = () => {
             &copy; {new Date().getFullYear()} LuxeMarket. All rights reserved.
           </p>
           <p className="text-gray-500 dark:text-gray-500 text-sm mt-2">
-            This is a demo e-commerce platform for portfolio purposes. Not a real store.
+            This is a demo e-commerce platform. Not a real store.
           </p>
         </div>
       </div>
